@@ -6,3 +6,4 @@ plot(x)
 x
 
 y <- 3:4
+plot(x, y)
